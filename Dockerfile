@@ -1,4 +1,4 @@
-FROM debian:buster
+FROM debian:bookworm
 LABEL maintainer="Mint Hosting"
 
 ARG DEBIAN_FRONTEND=noninteractive
